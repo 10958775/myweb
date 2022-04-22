@@ -1,0 +1,75 @@
+.body{
+   
+    background-color: #a9c6ea;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.head{
+    font-size: 10px;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif   ;
+    background-color: black;
+border-radius: 20%;
+color: #fff;
+}
+
+.me{
+    font-style: italic;
+}
+
+.th{
+    font-size: medium;
+    font-style: italic;
+}
+
+.form{
+    padding: 20px;
+}
+
+.formo{
+    padding-bottom: 10px;
+}
+
+.form label{
+    display: block;
+}
+
+.form input[type="text"], .form textarea{
+    padding: 8px;
+    width: 50%; 
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+    border:1px solid #ccc;
+    padding:8px;
+    box-sizing:border-box;
+    text-align: center;
+    background-color:black;
+    color: #fff;
+}
+
+.dot{
+    font: bold;
+    font-style: oblique;
+    margin-top: 250px;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.kill{
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.button input[type="submit"]{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    margin-left: 650px;
+}
